@@ -1,0 +1,6 @@
+{
+  "name": "Standard Shift: Echo Protocol",
+  "description": "A 3D time-loop puzzle game set in a futuristic product-testing laboratory inspired by the Bureau of Indian Standards (BIS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
